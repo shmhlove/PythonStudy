@@ -1,0 +1,4 @@
+JTBC|http://news.jtbc.joins.com/|#jtbcBody a[href^="http://news.jtbc.joins.com/html"]
+KBS|http://news.kbs.co.kr/common/main.html|#container a[href^="/news/view.do?ncd"]
+MBC|http://imnews.imbc.com/|#middle a[href^="http://imnews.imbc.com/news"]
+SBS|http://news.sbs.co.kr/news/newsMain.do|.w_inner a[href^="/news/endPage.do?news_id"]
