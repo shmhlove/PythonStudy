@@ -9,6 +9,9 @@ print('---------------------------------------------')
 
 print("Hello Python")
 print(str(235))
+print("Hello Python".strip())
+print("   Hello Python".strip())
+print("Hello Python   ".strip())
 
 #---------------------------------------------------
 print('---------------------------------------------')
